@@ -1,0 +1,17 @@
+C:\Users\Katherine\Desktop\CProject\The_Factory\bin\Debug\net9.0\The_Factory.exe
+C:\Users\Katherine\Desktop\CProject\The_Factory\bin\Debug\net9.0\The_Factory.deps.json
+C:\Users\Katherine\Desktop\CProject\The_Factory\bin\Debug\net9.0\The_Factory.runtimeconfig.json
+C:\Users\Katherine\Desktop\CProject\The_Factory\bin\Debug\net9.0\The_Factory.dll
+C:\Users\Katherine\Desktop\CProject\The_Factory\bin\Debug\net9.0\The_Factory.pdb
+C:\Users\Katherine\Desktop\CProject\The_Factory\obj\Debug\net9.0\The_Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Katherine\Desktop\CProject\The_Factory\obj\Debug\net9.0\The_Factory.AssemblyInfoInputs.cache
+C:\Users\Katherine\Desktop\CProject\The_Factory\obj\Debug\net9.0\The_Factory.AssemblyInfo.cs
+C:\Users\Katherine\Desktop\CProject\The_Factory\obj\Debug\net9.0\The_Factory.csproj.CoreCompileInputs.cache
+C:\Users\Katherine\Desktop\CProject\The_Factory\obj\Debug\net9.0\The_Factory.dll
+C:\Users\Katherine\Desktop\CProject\The_Factory\obj\Debug\net9.0\refint\The_Factory.dll
+C:\Users\Katherine\Desktop\CProject\The_Factory\obj\Debug\net9.0\The_Factory.pdb
+C:\Users\Katherine\Desktop\CProject\The_Factory\obj\Debug\net9.0\The_Factory.genruntimeconfig.cache
+C:\Users\Katherine\Desktop\CProject\The_Factory\obj\Debug\net9.0\ref\The_Factory.dll
+C:\Users\Katherine\Desktop\CProject\The_Factory\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\Katherine\Desktop\CProject\The_Factory\obj\Debug\net9.0\The_Factory.csproj.AssemblyReference.cache
+C:\Users\Katherine\Desktop\CProject\The_Factory\obj\Debug\net9.0\The_Fact.B623F407.Up2Date

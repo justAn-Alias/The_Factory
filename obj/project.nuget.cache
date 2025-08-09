@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RWO5kupzvMc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Katherine\\Desktop\\CProject\\The_Factory\\TheFactory-CSproj\\The_Factory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Katherine\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
